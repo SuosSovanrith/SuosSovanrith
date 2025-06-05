@@ -19,6 +19,10 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="center">Tech 👾</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
   <img width="12" />
@@ -60,9 +64,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
 </div>
-
+<!--
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/suossovanrith/suossovanrith/output/snake.svg" alt="Snake animation" />
-
+<!--
 ###
