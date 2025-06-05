@@ -19,9 +19,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Tech 👾</h2>
+<h1 align="center">Tech 👾</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
