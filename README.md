@@ -65,7 +65,7 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/suossovanrith/suossovanrith/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
