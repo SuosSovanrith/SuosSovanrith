@@ -6,16 +6,19 @@
 
 ###
 <br/><br/><br/><br/>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
+  <br/>
   <a href="mailto:suos089@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
+  <br/>
   <a href="https://t.me/SUOS_Htirnavos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
   </a>
+  <br/>
   <a href="https://discordapp.com/users/1203317250065432597" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
@@ -23,7 +26,7 @@
 
 ###
 
-<br/>
+<br/><br/>
 <h1 align="center">Tech 👾</h1>
 
 <div align="center">
