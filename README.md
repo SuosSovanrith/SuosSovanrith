@@ -22,7 +22,6 @@
 </div>
 
 <br/>
-###
 <samp> <h1 align="center">Tech 👾</h1> </samp>
 
 <div align="center">
