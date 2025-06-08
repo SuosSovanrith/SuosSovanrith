@@ -2,11 +2,7 @@
 
 ###
 <div align="center">
-  <!--<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" /> -->
-  <video width="400" height="225" muted autoplay loop>
-  <source src="[movie.mp4](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
 </div>
 
 ###
