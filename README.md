@@ -6,7 +6,7 @@
 
 ###
 <br/><br/><br/><br/>
-<div align="left">
+
   <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
@@ -22,11 +22,11 @@
   <a href="https://discordapp.com/users/1203317250065432597" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
-</div>
 
+
+<br/><br/><br/><br/>
 ###
 
-<br/><br/>
 <h1 align="center">Tech 👾</h1>
 
 <div align="center">
