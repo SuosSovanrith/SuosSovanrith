@@ -1,12 +1,12 @@
 <samp> <h2 align="center">Hello! (☞ﾟヮﾟ)☞ I'm Suos Sovanrith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2> </samp>
 
 ###
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
+<div align="center">
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
+</div>
 
 ###
-<br/><br/><br/><br/>
-
+<div align="center">
   <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
@@ -22,9 +22,9 @@
   <a href="https://discordapp.com/users/1203317250065432597" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
+</div>
 
-
-<br/><br/><br/><br/>
+<br/>
 ###
 
 <h1 align="center">Tech 👾</h1>
