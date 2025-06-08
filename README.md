@@ -1,4 +1,8 @@
-<h2 align="center">Hello! (☞ﾟヮﾟ)☞ I'm Suos Sovanrith</h2>
+<samp> <h2 align="center">Hello! (☞ﾟヮﾟ)☞ I'm Suos Sovanrith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2> </samp>
+
+###
+
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="640" height="360" />
 
 ###
 
@@ -66,6 +70,10 @@
 
 ###
 <div align="center">
-<img src="https://raw.githubusercontent.com/suossovanrith/suossovanrith/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/suossovanrith/suossovanrith/output/snake.svg" alt="Snake animation" />
 </div>
 
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="150" alt="streak graph"/>
+</div>
