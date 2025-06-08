@@ -2,32 +2,28 @@
 
 ###
 <div align="center">
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
 </div>
 
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35.71" alt="linkedin logo"  />
   </a>
-  <br/>
   <a href="mailto:suos089@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35.71" alt="gmail logo"  />
   </a>
-  <br/>
   <a href="https://t.me/SUOS_Htirnavos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35.71" alt="telegram logo"  />
   </a>
-  <br/>
   <a href="https://discordapp.com/users/1203317250065432597" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35.71" alt="discord logo"  />
   </a>
 </div>
 
 <br/>
 ###
-
-<h1 align="center">Tech 👾</h1>
+<samp> <h1 align="center">Tech 👾</h1> </samp>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
