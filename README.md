@@ -2,10 +2,10 @@
 
 ###
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="320" height="180" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
 
 ###
-
+<br/><br/><br/><br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
@@ -75,5 +75,5 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="200" alt="streak graph"/>
 </div>
