@@ -1,4 +1,4 @@
-<samp> <h2 align="center">Hello! (☞ﾟヮﾟ)☞ I'm Suos Sovanrith 👋 </h2> </samp>
+<h2 align="center">Hello! (☞ﾟヮﾟ)☞ I'm Suos Sovanrith 👋 </h2> 
 
 ###
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <br/>
-<samp> <h1 align="center">Tech 👾</h1> </samp>
+<h1 align="center">Tech 👾</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
