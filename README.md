@@ -73,5 +73,5 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="200" alt="streak graph"/>
+ <!-- <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="200" alt="streak graph"/>
 </div>
